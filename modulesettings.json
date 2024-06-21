@@ -3,7 +3,7 @@
   
     "TextSummary": {
       "Name": "Text Summary",
-      "Version": "1.8.0",
+      "Version": "1.8.1",
 
       "PublishingInfo" : {
         "Description": "Summarizes text content by selecting a number of sentences that are most representative of the content.",
@@ -57,8 +57,9 @@
           { "ModuleVersion": "1.6.2", "ServerVersionRange": [ "2.5.0-RC6", ""   ], "ReleaseDate": "2024-01-16", "ReleaseNotes": "Updated modulesettings schema" },
           { "ModuleVersion": "1.6.3", "ServerVersionRange": [ "2.5.0-RC6", ""   ], "ReleaseDate": "2024-01-18", "ReleaseNotes": "Updated explorer" },
           { "ModuleVersion": "1.7.0", "ServerVersionRange": [ "2.5.0-RC6", ""   ], "ReleaseDate": "2024-01-21", "ReleaseNotes": "Module performance statistics added" },
-          { "ModuleVersion": "1.7.1", "ServerVersionRange": [ "2.5.2", ""       ], "ReleaseDate": "2024-02-08", "ReleaseNotes": "Support for CodeProject.AI Server 2.5.2" },
-          { "ModuleVersion": "1.8.0", "ServerVersionRange": [ "2.7.0", ""       ], "ReleaseDate": "2024-02-25", "ReleaseNotes": "Support for CodeProject.AI Server 2.7" }
+          { "ModuleVersion": "1.7.1", "ServerVersionRange": [ "2.5.2",     ""   ], "ReleaseDate": "2024-02-08", "ReleaseNotes": "Support for CodeProject.AI Server 2.5.2" },
+          { "ModuleVersion": "1.8.0", "ServerVersionRange": [ "2.6.5",     ""   ], "ReleaseDate": "2024-02-25", "ReleaseNotes": "Support for CodeProject.AI Server 2.6.5" },
+          { "ModuleVersion": "1.8.1", "ServerVersionRange": [ "2.6.5",     ""   ], "ReleaseDate": "2024-06-21", "ReleaseNotes": "Corrections for numpy install issue" }
         ]
       },
 
